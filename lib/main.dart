@@ -74,7 +74,7 @@ class _FirstPageState extends State<FirstPage> {
                return Card(
                            elevation: 5,
                            shape: RoundedRectangleBorder(
-                             side: BorderSide(color: Colors.white,width: 70)
+                             side: BorderSide(color: Colors.white)
                            ,borderRadius: BorderRadius.circular(20)),
 
                            child: ListTile(
